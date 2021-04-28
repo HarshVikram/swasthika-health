@@ -1,9 +1,0 @@
-{
-  "USER": "root",
-  "PASSWORD": "Harsh123",
-  "DATABASE": "swasthika_database",
-  "HOST": "127.0.0.1",
-  "DIALECT": "mysql",
-  "PORT": "3306",
-  "JWTSECRET": "mysecrettoken"
-}
